@@ -18,7 +18,7 @@ Check out the live deployed site here:
 ## 📂 GitHub Repository
 
 Source code available here:  
-👉 [GitHub Repo](https://github.com/daniyal203/Guitar-Store)
+👉 [GitHub Repo](https://github.com/Daniyal203/Guitar-Store)
 
 ## 📌 Technologies Used
 
